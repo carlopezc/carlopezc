@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Carlota López-Coronado Domingo
+  # 👋 Hi there! I'm Carlota López-Coronado Domingo
 
 🎓 **Software Engineering student at [42 Barcelona](https://www.42barcelona.com/)**  
 🗓️ Started in **September 2024**  
@@ -6,6 +6,8 @@
 📍 Based in **Barcelona, Spain**
 
 ---
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/carlopez" alt="carlopez's 42 stats" /></a>
 
 ## 🚀 About Me
 
