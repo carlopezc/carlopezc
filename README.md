@@ -7,7 +7,7 @@
 
 ---
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/carlopez" alt="carlopez's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/carlopez" alt="carlopez's 42 stats" /></a>
 
 ## 🚀 About Me
 
