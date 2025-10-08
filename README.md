@@ -24,7 +24,7 @@ I love solving challenges, optimizing performance, and understanding how things 
 ## 💬 Let's Connect!
 
 📫 **Email:** carlotalcd@gmail.com  
-💼 **LinkedIn:** linkedin.com/in/carlota-lópez-coronado-domingo-a7b869304  
+💼 **LinkedIn:** linkedin.com/in/carlota-lópez-coronado-domingo-a7b869304   
 🌐 **GitHub:** https://github.com/carlopezc
 
 ---
