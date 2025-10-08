@@ -40,50 +40,13 @@ I love to understand how things work "under the hood" and my goal is to build so
 
 ---
 
-## 👩🏽‍💻 Featured Projects
+## 👩🏽‍💻 My Project Portfolio
 
-<table>
-<tr>
-<td width="50%">
-  <h3 align="center">Project Name 1 (e.g., MiniShell)</h3>
-  <div align="center">
-    <a href="YOUR_PROJECT_1_URL" target="_blank">
-      <img src="https://via.placeholder.com/400x200.png?text=Project+1+Demo" alt="Project 1 Demo">
-    </a>
-    <p>
-      <a href="YOUR_PROJECT_1_URL" target="_blank">
-        <b>View Repository</b>
-      </a>
-    </p>
-    <p>
-      Short, impactful description of your project. What does it do? What problem does it solve?
-    </p>
-    <p>
-      <strong>Technologies:</strong> C, Makefile, Shell
-    </p>
-  </div>
-</td>
-<td width="50%">
-  <h3 align="center">Project Name 2 (e.g., Push Swap)</h3>
-  <div align="center">
-    <a href="YOUR_PROJECT_2_URL" target="_blank">
-      <img src="https://via.placeholder.com/400x200.png?text=Project+2+Demo" alt="Project 2 Demo">
-    </a>
-    <p>
-      <a href="YOUR_PROJECT_2_URL" target="_blank">
-        <b>View Repository</b>
-      </a>
-    </p>
-    <p>
-      Short, impactful description of your project. What was the main challenge? What did you learn?
-    </p>
-    <p>
-      <strong>Technologies:</strong> C, Sorting Algorithms
-    </p>
-  </div>
-</td>
-</tr>
-</table>
+I have worked on a variety of projects, ranging from foundational C libraries to complex system-level programs. Each one has been a unique challenge that has strengthened my problem-solving and coding skills.
+
+<p align="center">
+  <strong><a href="projects.md">➡️ Explore My Full List of Projects Here </a></strong>
+</p>
 
 ---
 
