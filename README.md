@@ -45,7 +45,7 @@ I love to understand how things work "under the hood" and my goal is to build so
 I have worked on a variety of projects, ranging from foundational C libraries to complex system-level programs. Each one has been a unique challenge that has strengthened my problem-solving and coding skills.
 
 <p align="center">
-  <strong><a href="projects.md">➡️ Explore My Full List of Projects Here </a></strong>
+  <strong><a href="Projects/projects.md">➡️ Explore My Full List of Projects Here </a></strong>
 </p>
 
 ---
