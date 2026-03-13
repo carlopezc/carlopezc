@@ -41,9 +41,9 @@ I love to understand how things work "under the hood" and my goal is to build so
 
 ### ☕ Featured Java & Kotlin Projects
 
-* 🚧 **[Project Name 1]** - *Brief description (e.g., A REST API built with Spring Boot...)* | [Repo Link](#)
-* 🚧 **[Project Name 2]** - *Brief description (e.g., An Android application using Kotlin...)* | [Repo Link](#)
-*(You can update these as you build them in your Grado Superior!)*
+* 📱 **[Filmoteca (Android App)](https://github.com/carlopezc/Filmoteca)** - A modern Android movie management application built entirely with Kotlin and Jetpack Compose, featuring declarative UI, robust navigation (`NavHost`), and state management.
+* 🌐 **[Java TCP/IP Concurrent Servers](https://github.com/carlopezc/Java-Concurrent-Servers)** - A suite of backend server applications demonstrating TCP/IP socket programming, multi-threading (thread-per-client architecture), and remote file management with state-based authentication.
+* 📂 **[Java Data Persistence & Formats](https://github.com/carlopezc/AccesoDatos-FileFormats)** - An application demonstrating data modeling, parsing, and persistence across multiple file formats including TXT/CSV, Binary objects, XML (DOM to SVG), and JSON.
 
 ---
 
