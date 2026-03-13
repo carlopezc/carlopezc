@@ -5,6 +5,7 @@
 I thrive on solving complex algorithmic challenges and building robust backend systems. I am currently open to work and looking for opportunities where I can leverage my Java skills and continue growing as an engineer.
 
 <br>
+
 📍 Based in **Barcelona, Spain**.
 
 ---
