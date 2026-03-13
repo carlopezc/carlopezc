@@ -59,12 +59,6 @@ My background includes rigorous, peer-reviewed projects focusing on manual memor
 
 ---
 
-<p align="center">
-  <strong><a href="https://github.com/carlopezc/Projects/blob/main/projects.md">➡️ Explore My Full List of Projects Here </a></strong>
-</p>
-
----
-
 ## 💬 Let's Connect!
 
 <p align="center">
