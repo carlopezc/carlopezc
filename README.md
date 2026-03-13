@@ -1,8 +1,9 @@
 # 👋🏼 Hi there! I'm Carlota López-Coronado
 
-🎓 **Software Engineering Student at [42 Barcelona](https://www.42barcelona.com/)**
-<br>
-💻 Focused on **low-level programming** and **algorithm optimization** with **C**.
+🎓 I'm a passionate Software Developer currently specializing in **Java** and **Kotlin** through my higher degree studies (Grado Superior), building upon a rock-solid foundation in C and system programming acquired at **42 School**. 
+
+I thrive on solving complex algorithmic challenges and building robust backend systems. I am currently open to work and looking for opportunities where I can leverage my Java skills and continue growing as an engineer.
+
 <br>
 📍 Based in **Barcelona, Spain**.
 
@@ -27,23 +28,36 @@ I love to understand how things work "under the hood" and my goal is to build so
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
-  <img src="https://img.shields.io/badge/Makefile-FF5733?style=for-the-badge&logo=cmake&logoColor=white" alt="Makefile"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-</p>
+**Languages:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 👩🏽‍💻 My Project Portfolio
+### ☕ Featured Java & Kotlin Projects
 
-I have worked on a variety of projects, ranging from foundational C libraries to complex system-level programs. Each one has been a unique challenge that has strengthened my problem-solving and coding skills.
+* 🚧 **[Project Name 1]** - *Brief description (e.g., A REST API built with Spring Boot...)* | [Repo Link](#)
+* 🚧 **[Project Name 2]** - *Brief description (e.g., An Android application using Kotlin...)* | [Repo Link](#)
+*(You can update these as you build them in your Grado Superior!)*
+
+---
+
+### 💻 42 School Core Curriculum (C / C++)
+My background includes rigorous, peer-reviewed projects focusing on manual memory management, algorithms, and system architecture.
+
+* **[Minishell](https://github.com/carlopezc/Minishell):** A custom-built UNIX shell replicating bash features.
+* **[Philosophers](https://github.com/carlopezc/Philosophers):** A multithreading and synchronization project solving the dining philosophers problem.
+* **[Push_swap](https://github.com/carlopezc/Push_swap):** An algorithm project to sort data using a limited set of instructions.
+* **[Pipex](https://github.com/carlopezc/Pipex):** A program simulating the behavior of shell pipes (`|`).
+* **[FdF](https://github.com/carlopezc/Fdf):** A 3D wireframe graphics renderer.
+* **[Libft](https://github.com/carlopezc/Libft):** A comprehensive custom C standard library.
+
+---
 
 <p align="center">
   <strong><a href="https://github.com/carlopezc/Projects/blob/main/projects.md">➡️ Explore My Full List of Projects Here </a></strong>
