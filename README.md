@@ -1,6 +1,6 @@
 # 👋🏼 Hi there! I'm Carlota López-Coronado
 
-🎓 I'm a passionate Software Developer currently specializing in **Java** and **Kotlin** through my higher degree studies (Grado Superior), building upon a rock-solid foundation in C and system programming acquired at **42 School**. 
+🎓 I'm a passionate Software Developer currently specializing in **Java** and **Kotlin** through my higher degree studies, building upon a rock-solid foundation in C and system programming acquired at **42 School**. 
 
 I thrive on solving complex algorithmic challenges and building robust backend systems. I am currently open to work and looking for opportunities where I can leverage my Java skills and continue growing as an engineer.
 
