@@ -1,4 +1,4 @@
-# 👋🏼 Hi there! I'm Carlota López-Coronado
+# Hi there! I'm Carlota López-Coronado
 
 🎓 I'm a passionate Software Developer currently specializing in **Java** and **Kotlin** through my higher degree studies, building upon a rock-solid foundation in **C** and system programming acquired at **42 School**. 
 
