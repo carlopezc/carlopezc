@@ -6,7 +6,7 @@ I thrive on solving complex algorithmic challenges and building robust backend s
 
 <br>
 
-📍 Based in **Barcelona, Spain**.
+📍 Based in **Zaragoza, Spain**.
 
 ---
 
